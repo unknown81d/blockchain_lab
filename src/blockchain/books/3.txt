@@ -1,0 +1,16 @@
+[
+    [
+        {
+            "nonce": 10
+        },
+        {
+            "from": "dima",
+            "amount": 100,
+            "to_whom": "kolya"
+        },
+        {
+            "prewiew_hash": "035f62c8ff4bdd4af3e6d41ba26204a7"
+        }
+    ],
+    "09d9e72d47f249e2f9c71fc8f08edb8c"
+]
